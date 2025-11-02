@@ -1,4 +1,4 @@
-0import turtle
+import turtle
 turtle.speed (1000000000000000000000000000000000000000000000000000000000000)
 turtle.bgcolor ('black')
 turtle.width (1.5)
